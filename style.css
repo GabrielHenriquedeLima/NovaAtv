@@ -19,6 +19,7 @@ body{
     color: #fff;
     text-transform: uppercase;
     font-weight: bold;
+    text-decoration: black;
 }
 #titulo{
     padding-top: 35px;
@@ -27,6 +28,7 @@ body{
 #home2{
     color: white;
     font-size: 13px;
+    text-decoration: black;
 }
 #home{
   padding-top: 50px;
@@ -37,7 +39,8 @@ body{
     padding-left: 25px;
 }
 #photos2{color: white;
- font-size: 13px;}
+ font-size: 13px;
+ text-decoration: black;}
 #BIOGRAPHY{
     padding-top: 10px;
     padding-left: 25px;
@@ -45,6 +48,7 @@ body{
 #BIOGRAPHY2{
     color: white;
     font-size: 13px;
+    text-decoration: black;
 }
 #BLOG{
     padding-top: 10px;
@@ -53,6 +57,7 @@ body{
 #BLOG2{
     color: white;
     font-size: 13px;
+    text-decoration: black;
 }
 #CONTACT{
     padding-top: 10px;
@@ -61,6 +66,7 @@ body{
 #CONTACT2{
     color: white;
     font-size: 13px;
+    text-decoration: black;
 }
 #divteste{
     color: white;
@@ -93,6 +99,7 @@ body{
     text-align: center;
     height: 300px;
     padding-left: 100PX;
+    padding-top: 50px;
 }
 #botao2{
     font-size: 25px;
