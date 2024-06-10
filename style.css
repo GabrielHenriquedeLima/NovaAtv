@@ -86,8 +86,14 @@ body{
   
     
 }
-
-
+#molino{
+    color: #df0e62;
+    text-decoration: black;
+}
+#molinoa{
+    color: #df0e62;
+    text-decoration: black;
+}
 
 #white{
     color: white;
@@ -260,6 +266,7 @@ body{
 }
 #mamamamamaas{
     padding-right: 25px;
+    text-decoration: black;
 }
 #numerozinho a{
     color: #df0e62;
@@ -279,6 +286,9 @@ height: 900px;
     color: white;
     padding-left: 600px;
     
+}
+#molina{
+    text-decoration: black;
 }
 #pdla{
     background-color: black;
